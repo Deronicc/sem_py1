@@ -14,4 +14,4 @@ avr = S//6
 if (not S%2):
     print(S, "->", avr, (avr+avr)*2, avr)
 else:
-    print("Вы ввели нечетное числов")
+    print("Вы ввели нечетное число")
